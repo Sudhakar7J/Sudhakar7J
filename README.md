@@ -26,19 +26,21 @@ I design and build end-to-end systems across frontend, backend, infrastructure, 
 ## GitHub stats & activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sudhakar7J&show_icons=true&hide_border=true&rank_icon=github" alt="Sudhakar7J GitHub stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sudhakar7J&layout=compact&hide_border=true" alt="Top languages" height="165" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Sudhakar7J&theme=default" alt="GitHub profile summary" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Sudhakar7J&theme=default" alt="GitHub stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Sudhakar7J&theme=default" alt="Repos per language" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Sudhakar7J&theme=default" alt="Most commits by language" />
 </p>
 
 <p align="center">
   <img src="https://streak-stats.demolab.com/?user=Sudhakar7J&hide_border=true" alt="GitHub streak" />
 </p>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Sudhakar7J/Sudhakar7J/output/github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Sudhakar7J/Sudhakar7J/output/github-snake.svg" />
-  <img alt="github-snake" src="https://raw.githubusercontent.com/Sudhakar7J/Sudhakar7J/output/github-snake.svg" />
-</picture>
 
 ## Contact
 
