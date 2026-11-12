@@ -1,18 +1,27 @@
 # Hi, I'm Sudhakar J 👋
 
-**Lead Software Engineer (React, Next.js, Python, Go)** based in India.  
-I build products and contribute to open-source projects with a focus on practical bug fixes, developer tooling, and maintainable code.
+**Software Architect & Lead Engineer** based in India.  
+I design and build end-to-end systems across frontend, backend, infrastructure, and AI-enabled products — with a focus on scalable architecture, reliability, and developer experience.
 
-## Open source
+## What I do
 
-- **Merged contributions** include fixes in widely used projects (e.g. [dotnet/winforms #15375](https://github.com/dotnet/winforms/pull/15375)).
-- Actively contributing across ecosystems like **React, Next.js, Go, .NET, Redis, Tailwind CSS**, and more — with an emphasis on well-scoped, tested, and review-friendly PRs.
+- **Architecture & system design:** designing scalable, maintainable systems, APIs, and platform-level solutions
+- **Frontend engineering:** React, Next.js, TypeScript/JavaScript, modern UI architecture and performance
+- **Backend engineering:** Python, Go, Java, service design, APIs, and data-driven applications
+- **Infrastructure & platform:** cloud/infra-minded development, CI/CD, deployment workflows, observability, and operational reliability
+- **AI-related work:** building and integrating AI/LLM-powered features, tooling, and workflows into real products
+- **Open source:** contributing well-scoped, tested fixes and improvements to widely used projects
 
-## What I work with
+## Open source highlights
 
-- **Frontend:** React, Next.js, TypeScript/JavaScript
-- **Backend & systems:** Python, Go
-- **Engineering:** debugging, testing, performance-minded fixes, and OSS collaboration
+- **Merged:** [dotnet/winforms #15375](https://github.com/dotnet/winforms/pull/15375) — fixed `Image.Width/Height` designer `DefaultValue` metadata (widely used .NET desktop framework)
+- **Notable contributions/work in progress:** active across ecosystems including [React](https://github.com/facebook/react/pulls?q=is%3Apr+author%3ASudhakar7J), [Next.js](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3ASudhakar7J), [Go](https://github.com/golang/go/pulls?q=is%3Apr+author%3ASudhakar7J), [.NET Runtime](https://github.com/dotnet/runtime/pulls?q=is%3Apr+author%3ASudhakar7J), [Redis](https://github.com/redis/redis/pulls?q=is%3Apr+author%3ASudhakar7J), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss/pulls?q=is%3Apr+author%3ASudhakar7J), and [Spring Security](https://github.com/spring-projects/spring-security/pulls?q=is%3Apr+author%3ASudhakar7J)
+
+> I value clean problem scoping, repo-guideline compliance, strong verification, and collaborative reviews.
+
+## Tech & interests
+
+`Architecture` · `React` · `Next.js` · `TypeScript` · `JavaScript` · `Python` · `Go` · `Java` · `.NET` · `APIs` · `Distributed Systems` · `Cloud/Infra` · `CI/CD` · `Observability` · `AI/LLM Integrations`
 
 ## Contact
 
@@ -21,4 +30,4 @@ I build products and contribute to open-source projects with a focus on practica
 - **Email:** [sudhakar.jeeva7@gmail.com](mailto:sudhakar.jeeva7@gmail.com)
 - **GitHub:** [@Sudhakar7J](https://github.com/Sudhakar7J)
 
-If you'd like to collaborate, discuss OSS work, or reach out about opportunities, feel free to contact me via LinkedIn or email.
+If you'd like to collaborate on architecture, full-stack/platform engineering, AI-enabled systems, or open source, feel free to reach out.
