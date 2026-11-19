@@ -2,7 +2,7 @@
 
 # Sudhakar J
 
-**Software Architect · AI-Native Engineer · Full-Stack & Platform Builder**
+**Software Architect • AI-Native Engineer • Full-Stack & Platform Builder**
 
 Designing and shipping scalable systems across **product engineering, architecture, backend/frontend, infrastructure, and AI-powered workflows**.
 
@@ -40,8 +40,8 @@ Designing and shipping scalable systems across **product engineering, architectu
 
 ## Open Source Highlights
 
-- **Merged:** [dotnet/winforms #15375](https://github.com/dotnet/winforms/pull/15375) · [dmae97/omk #337](https://github.com/dmae97/omk/pull/337) · [PhilanthroPy #372](https://github.com/PhilanthroPy-Project/PhilanthroPy/pull/372) *(co-authored, credited)* · [needboost/ezhil-infra-website #1](https://github.com/needboost/ezhil-infra-website/pull/1)
-- **Active in major OSS:** [React](https://github.com/facebook/react/pulls?q=is%3Apr+author%3ASudhakar7J), [Next.js](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3ASudhakar7J), [Go](https://github.com/golang/go/pulls?q=is%3Apr+author%3ASudhakar7J), [.NET Runtime](https://github.com/dotnet/runtime/pulls?q=is%3Apr+author%3ASudhakar7J), [Redis](https://github.com/redis/redis/pulls?q=is%3Apr+author%3ASudhakar7J), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss/pulls?q=is%3Apr+author%3ASudhakar7J), [Spring Security](https://github.com/spring-projects/spring-security/pulls?q=is%3Apr+author%3ASudhakar7J)
+- **Merged (5 PRs, 3 in well-used OSS):** [spectreconsole/spectre.console #2252](https://github.com/spectreconsole/spectre.console/pull/2252) • [tailwindlabs/tailwindcss #20708](https://github.com/tailwindlabs/tailwindcss/pull/20708) • [dotnet/winforms #15375](https://github.com/dotnet/winforms/pull/15375) • [dmae97/omk #337](https://github.com/dmae97/omk/pull/337) • [PhilanthroPy #372](https://github.com/PhilanthroPy-Project/PhilanthroPy/pull/372) *(co-authored, credited)*
+- **Active in major OSS:** [React](https://github.com/facebook/react/pulls?q=is%3Apr+author%3ASudhakar7J), [Next.js](https://github.com/vercel/next.js/pulls?q=is%3Apr+author%3ASudhakar7J), [Go](https://github.com/golang/go/pulls?q=is%3Apr+author%3ASudhakar7J), [.NET Runtime](https://github.com/dotnet/runtime/pulls?q=is%3Apr+author%3ASudhakar7J), [Redis](https://github.com/redis/redis/pulls?q=is%3Apr+author%3ASudhakar7J), [Tailwind CSS](https://github.com/tailwindlabs/tailwindcss/pulls?q=is%3Apr+author%3ASudhakar7J), [Spring Security](https://github.com/spring-projects/spring-security/pulls?q=is%3Apr+author%3ASudhakar7J), [uv](https://github.com/astral-sh/uv/pulls?q=is%3Apr+author%3ASudhakar7J), [Tauri](https://github.com/tauri-apps/tauri/pulls?q=is%3Apr+author%3ASudhakar7J), [Abseil](https://github.com/abseil/abseil-cpp/pulls?q=is%3Apr+author%3ASudhakar7J)
 
 ## GitHub Stats
 
@@ -60,6 +60,6 @@ Designing and shipping scalable systems across **product engineering, architectu
 
 **Open to collaboration on architecture, AI-native products, full-stack/platform engineering, infrastructure, and open source.**
 
-[Portfolio](https://sudhakar-folio.vercel.app/) · [LinkedIn](https://www.linkedin.com/in/sudhakar-j) · [Email](mailto:sudhakar.jeeva7@gmail.com)
+[Portfolio](https://sudhakar-folio.vercel.app/) • [LinkedIn](https://www.linkedin.com/in/sudhakar-j) • [Email](mailto:sudhakar.jeeva7@gmail.com)
 
 </div>
